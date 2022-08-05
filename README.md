@@ -1,0 +1,5 @@
+- Hello Friend, I’m @Thoondar
+- I’m interested in indie game development
+- I’m currently learning - Python
+- I’m looking to collaborate on text adventure and sidescolling indie games
+- How to reach me - aspektproduction@gmail.com
